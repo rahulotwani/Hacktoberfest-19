@@ -58,3 +58,9 @@
 - Bio: Developer
 - GitHub: [chandan5759](https://github.com/chandan5759/)
 
+### Name: [Souvik Dutta](https://github.com/souvikxcoder)
+- Place: Dum Dum, West Bengal
+- Bio:	Student
+- GitHub: [souvikxcoder](https://github.com/souvikxcoder)
+
+
