@@ -47,3 +47,7 @@
 - Bio: studing at NIT Durgapur
 - GitHub: [naveenreddy2000](https://github.com/naveenreddy2000/)
 
+#### Name: [Chandan Kumar](https://github.com/chandan5759/)
+- Place: Durgapur, West Bengal
+- Bio: Developer
+- GitHub: [chandan5759](https://github.com/chandan5759/)
