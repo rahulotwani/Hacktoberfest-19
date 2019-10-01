@@ -1,7 +1,7 @@
 # add your details here
 
-#### Name: [YOUR NAME](GitHub link)
-- Place: City, State, Country
+#### Name: [Suraj Kr Modi](GitHub link)
+- Place: Asansol,West Bengal,India
 - Bio: Who are you?
 - GitHub: [GitHub account name](GitHub link)
 
