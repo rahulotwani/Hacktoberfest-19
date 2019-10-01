@@ -26,7 +26,24 @@
 - Bio: I'm a software developer based in Zimbabwe
 - GitHub: [skyridertk](https://github.com/skyridertk)
 
+
 ### Name: [Hugo Valencia](https://github.com/psicobloc)
 - Place: Guadalajara, Jalisco, México
 - Bio: Dev.
 - GitHub: [psicobloc](https://github.com/psicobloc)
+=======
+#### Name: [Abhihek Kumar](https://github.com/mithilacoder/)
+- Place: Mithilaanchal, Bihar
+- Bio: Kya Hi Hai
+- GitHub: [mithilacoder](https://github.com/mithilacoder/)
+
+#### Name: [Arkaprova Deb](https://github.com/arkaprovaz/)
+- Place: Siliguri, WB, India
+- Bio: Intel Software Innovator, Developer, Speaker.
+- GitHub: [Arkaprova Deb](https://github.com/arkaprovaz/)
+=======
+#### Name: [Naveen Reddy](https://github.com/naveenreddy2000/)
+- Place: Guntur, Andhra Pradesh , India
+- Bio: studing at NIT Durgapur
+- GitHub: [naveenreddy2000](https://github.com/naveenreddy2000/)
+
