@@ -27,5 +27,5 @@
 - GitHub: [skyridertk](https://github.com/skyridertk)
 #### Name: [Abhihek Kumar](https://github.com/mithilacoder/)
 - Place: Mithilaanchal, Bihar
-- Bio: Kya Hi Hai
+- Bio: IT 3rd year, NIT Dgp
 - GitHub: [mithilacoder](https://github.com/mithilacoder/)
