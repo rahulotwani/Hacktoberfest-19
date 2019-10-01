@@ -47,7 +47,14 @@
 - Bio: studing at NIT Durgapur
 - GitHub: [naveenreddy2000](https://github.com/naveenreddy2000/)
 
+
+#### Name: [Marcio Kuroki](https://github.com/marciokuroki/)
+- Place: Belém, Pará, Brazil
+- Bio: Developer.
+- GitHub: [marciokuroki](https://github.com/marciokuroki/)
+=======
 #### Name: [Chandan Kumar](https://github.com/chandan5759/)
 - Place: Durgapur, West Bengal
 - Bio: Developer
 - GitHub: [chandan5759](https://github.com/chandan5759/)
+
