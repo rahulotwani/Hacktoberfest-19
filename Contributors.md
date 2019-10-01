@@ -29,3 +29,8 @@
 - Place: Mithilaanchal, Bihar
 - Bio: Kya Hi Hai
 - GitHub: [mithilacoder](https://github.com/mithilacoder/)
+
+#### Name: [Naveen Reddy](https://github.com/naveenreddy2000/)
+- Place: Guntur, Andhra Pradesh , India
+- Bio: studing at NIT Durgapur
+- GitHub: [naveenreddy2000](https://github.com/naveenreddy2000/)
