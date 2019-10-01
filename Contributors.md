@@ -25,6 +25,13 @@
 - Place: Harare, Harare, Zimbabwe
 - Bio: I'm a software developer based in Zimbabwe
 - GitHub: [skyridertk](https://github.com/skyridertk)
+
+
+### Name: [Hugo Valencia](https://github.com/psicobloc)
+- Place: Guadalajara, Jalisco, México
+- Bio: Dev.
+- GitHub: [psicobloc](https://github.com/psicobloc)
+=======
 #### Name: [Abhihek Kumar](https://github.com/mithilacoder/)
 - Place: Mithilaanchal, Bihar
 - Bio: Kya Hi Hai
