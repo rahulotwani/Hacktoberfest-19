@@ -28,4 +28,4 @@
 #### Name: [Abhihek Kumar](https://github.com/mithilacoder/)
 - Place: Mithilaanchal, Bihar
 - Bio: Kya Hi Hai
-- GitHub: [mithilacoder](https://github.com/rahulotwani/)
+- GitHub: [mithilacoder](https://github.com/mithilacoder/)
