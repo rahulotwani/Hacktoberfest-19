@@ -25,3 +25,7 @@
 - Place: Harare, Harare, Zimbabwe
 - Bio: I'm a software developer based in Zimbabwe
 - GitHub: [skyridertk](https://github.com/skyridertk)
+#### Name: [Abhihek Kumar](https://github.com/mithilacoder/)
+- Place: Mithilaanchal, Bihar
+- Bio: Kya Hi Hai
+- GitHub: [mithilacoder](https://github.com/rahulotwani/)
