@@ -10,6 +10,11 @@
 - Bio: Developer.
 - GitHub: [Ishaniiit](https://github.com/rahulotwani/)
 
+#### Name: [Lakshmi Kittur](https://github.com/lakshmikittur)
+- Place: Mangalore, Karnataka, India
+- Bio: Developer
+- GitHub: [LakshmiKittur](https://github.com/lakshmikittur)
+
 #### Name: [Ishan Arora](https://github.com/Ishaniiit/)
 - Place: Varanasi, UP, India
 - Bio: Jake record me dekh.
