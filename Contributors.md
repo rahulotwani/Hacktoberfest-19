@@ -29,3 +29,8 @@
 - Place: Mithilaanchal, Bihar
 - Bio: Kya Hi Hai
 - GitHub: [mithilacoder](https://github.com/mithilacoder/)
+
+#### Name: [Arkaprova Deb](https://github.com/arkaprovaz/)
+- Place: Siliguri, WB, India
+- Bio: Intel Software Innovator, Developer, Speaker.
+- GitHub: [Arkaprova Deb](https://github.com/arkaprovaz/)
