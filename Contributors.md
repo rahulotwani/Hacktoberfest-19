@@ -30,7 +30,13 @@
 - Bio: Kya Hi Hai
 - GitHub: [mithilacoder](https://github.com/mithilacoder/)
 
+#### Name: [Arkaprova Deb](https://github.com/arkaprovaz/)
+- Place: Siliguri, WB, India
+- Bio: Intel Software Innovator, Developer, Speaker.
+- GitHub: [Arkaprova Deb](https://github.com/arkaprovaz/)
+=======
 #### Name: [Naveen Reddy](https://github.com/naveenreddy2000/)
 - Place: Guntur, Andhra Pradesh , India
 - Bio: studing at NIT Durgapur
 - GitHub: [naveenreddy2000](https://github.com/naveenreddy2000/)
+
