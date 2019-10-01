@@ -47,3 +47,7 @@
 - Bio: studing at NIT Durgapur
 - GitHub: [naveenreddy2000](https://github.com/naveenreddy2000/)
 
+#### Name: [Marcio Kuroki](https://github.com/marciokuroki/)
+- Place: Belém, Pará, Brazil
+- Bio: Developer.
+- GitHub: [marciokuroki](https://github.com/marciokuroki/)
