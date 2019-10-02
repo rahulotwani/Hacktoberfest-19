@@ -63,4 +63,7 @@
 - Bio:	Student
 - GitHub: [souvikxcoder](https://github.com/souvikxcoder)
 
-
+### Name: [Ankush Kotriwal](https://github.com/ankush1024)
+- Place: Surat, Gujarat, India
+- Bio:	Innovator
+- GitHub: [ankush1024](https://github.com/ankush1024)
