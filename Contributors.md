@@ -72,3 +72,8 @@
 - Place: Boston, United States
 - Bio:	Student
 - GitHub: [ankush1024](https://github.com/ExpensiveDinner)
+
+### Name: [Rajas Ajay Kulkarni](https://github.com/kulkarni-rajas)
+- Place: Durgapur, India
+- Bio:	Student
+- GitHub: [kulkarni-rajas](https://github.com/kulkarni-rajas)
