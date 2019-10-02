@@ -27,11 +27,17 @@
 - GitHub: [skyridertk](https://github.com/skyridertk)
 
 
+#### Name: [Shrutika Nigam](https://github.com/shrutika43)
+- Place: Jhansi, UP, India
+- Bio: I'm a beginner
+- GitHub: [Shrutika Nigam](https://github.com/shrutika43)
+
+
 ### Name: [Hugo Valencia](https://github.com/psicobloc)
 - Place: Guadalajara, Jalisco, México
 - Bio: Dev.
 - GitHub: [psicobloc](https://github.com/psicobloc)
-=======
+
 #### Name: [Abhihek Kumar](https://github.com/mithilacoder/)
 - Place: Mithilaanchal, Bihar
 - Bio: IT 3rd year, NIT Dgp
@@ -52,7 +58,7 @@
 - Place: Belém, Pará, Brazil
 - Bio: Developer.
 - GitHub: [marciokuroki](https://github.com/marciokuroki/)
-=======
+
 #### Name: [Chandan Kumar](https://github.com/chandan5759/)
 - Place: Durgapur, West Bengal
 - Bio: Developer
@@ -77,3 +83,4 @@
 - Place: Durgapur, India
 - Bio:	Student
 - GitHub: [kulkarni-rajas](https://github.com/kulkarni-rajas)
+
