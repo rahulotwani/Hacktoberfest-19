@@ -25,3 +25,8 @@
 - Place: Harare, Harare, Zimbabwe
 - Bio: I'm a software developer based in Zimbabwe
 - GitHub: [skyridertk](https://github.com/skyridertk)
+
+#### Name: [Shrutika Nigam](https://github.com/shrutika43)
+- Place: Jhansi, UP, India
+- Bio: I'm a beginner
+- GitHub: [Shrutika Nigam](https://github.com/shrutika43)
