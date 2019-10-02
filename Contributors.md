@@ -84,3 +84,7 @@
 - Bio:	Student
 - GitHub: [kulkarni-rajas](https://github.com/kulkarni-rajas)
 
+### Name: [Caio Perdona](https://github.com/kulkarni-rajas)
+- Place: SP, Brazil
+- Bio:	Software Engineer
+- GitHub: [perdona](https://github.com/perdona)
