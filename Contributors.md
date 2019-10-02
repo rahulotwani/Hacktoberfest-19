@@ -67,3 +67,8 @@
 - Place: Surat, Gujarat, India
 - Bio:	Innovator
 - GitHub: [ankush1024](https://github.com/ankush1024)
+
+### Name: [Leopoldo Castro](https://github.com/ExpensiveDinner)
+- Place: Boston, United States
+- Bio:	Student
+- GitHub: [ankush1024](https://github.com/ExpensiveDinner)
