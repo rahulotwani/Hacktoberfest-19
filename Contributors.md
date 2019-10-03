@@ -93,3 +93,8 @@
 - Place: Bangalore, India
 - Bio:	Software Engineer
 - GitHub: [kshitij299](https://github.com/kshitij299)
+
+### Name: [Yusuf Adefolahan](https://github.com/sanxy)
+- Place: Lagos, Nigeria
+- Bio:	Software Developer
+- GitHub: [sanxy](https://github.com/sanxy)
