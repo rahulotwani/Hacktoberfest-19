@@ -88,3 +88,8 @@
 - Place: SP, Brazil
 - Bio:	Software Engineer
 - GitHub: [perdona](https://github.com/perdona)
+
+### Name: [Kshitij Mishra](https://github.com/kshitij299)
+- Place: Bangalore, India
+- Bio:	Software Engineer
+- GitHub: [kshitij299](https://github.com/kshitij299)
