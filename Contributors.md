@@ -98,3 +98,8 @@
 - Place: Lagos, Nigeria
 - Bio:	Software Developer
 - GitHub: [sanxy](https://github.com/sanxy)
+
+### Name: [Orafu Charles Tochukwu](https://github.com/charlyTochi)
+- Place: Lagos, Nigeria
+- Bio:	Software Developer
+- GitHub: [charlyTochi](https://github.com/charlyTochi)
