@@ -112,3 +112,8 @@
 - Place: Tehran, Iran
 - Bio:	Software Developer
 - GitHub: [iamaliasadi](https://github.com/iamaliasadi)
+
+### Name: [Kshitij Bajpai](https://github.com/Rapheal-Jones)
+- Place: Noida, India
+- Bio:	Student
+- GitHub: [Rapheal-Jones](https://github.com/Rapheal-Jones)
