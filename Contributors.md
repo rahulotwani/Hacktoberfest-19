@@ -53,6 +53,11 @@
 - Bio: studing at NIT Durgapur
 - GitHub: [naveenreddy2000](https://github.com/naveenreddy2000/)
 
+#### Name: [Shubhayan Saha](https://github.com/shubhayans/)
+- Place: Chennai, Tamil Nadu
+- Bio: Developer.
+- GitHub: [shubhayans](https://github.com/shubhayans/)
+
 
 #### Name: [Marcio Kuroki](https://github.com/marciokuroki/)
 - Place: Belém, Pará, Brazil
