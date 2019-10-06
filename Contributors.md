@@ -149,3 +149,9 @@
 - Place: Lagos, Nigeria
 - Bio: Software Developer
 - GitHub: [Foluwa](https://github.com/foluwa)
+
+### Name: [Eze Kohon](https://github.com/ezekohon)
+
+- Place: Bahia Blanca, Argentina
+- Bio: Software Developer
+- GitHub: [Ezekohon](https://github.com/ezekohon)
