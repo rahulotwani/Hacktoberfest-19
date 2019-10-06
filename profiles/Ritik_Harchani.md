@@ -1,5 +1,6 @@
-Ritik Harchani
-Github Username: harchani-ritik
-Sophomore at IIIT-Allahabad
-Loves App-Development
-Bs bahut ho gaya!
+#### Name: [Ritik Harchani](https://github.com/harchani-ritik/)
+- Place: Varanasi, UP, India
+- GitHub: [Tulika-Shivani](https://github.com/Tulika-Shivani/)
+- Loves App Developmet
+- Bs bahut ho gaya!
+
