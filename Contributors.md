@@ -117,3 +117,8 @@
 - Place: Noida, India
 - Bio:	Student
 - GitHub: [Rapheal-Jones](https://github.com/Rapheal-Jones)
+
+### Name: [Ritik Harchani](https://github.com/harchani-ritik)
+- Place: Varanasi, India
+- Bio:	Bio hi padni thi toh maths kyu liya?
+- GitHub: [harchani-ritik](https://github.com/harchani-ritik)
