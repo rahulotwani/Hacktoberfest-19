@@ -155,3 +155,9 @@
 - Place: Bahia Blanca, Argentina
 - Bio: Software Developer
 - GitHub: [Ezekohon](https://github.com/ezekohon)
+
+### Name: [Eze Kohon](https://github.com/caption)
+
+- Place: Stockholm, Sweden
+- Bio: Student
+- GitHub: [Caption](https://github.com/caption)
