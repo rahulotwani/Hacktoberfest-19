@@ -155,3 +155,9 @@
 - Place: Bahia Blanca, Argentina
 - Bio: Software Developer
 - GitHub: [Ezekohon](https://github.com/ezekohon)
+
+### Name: [Aashrey Jain](https://github.com/aashreyj)
+
+- Place: Aurangabad, Maharashtra, India
+- Bio: Software Developer. 3rd year CSE undergrad with a crush on physics.
+- GitHub: [aashreyj](https://github.com/aashreyj)
