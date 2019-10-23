@@ -1,0 +1,25 @@
+//# Name
+
+//Parth Pant
+
+//### Location
+
+//India
+
+//### Academics
+
+//NIT HAMIRPUR
+
+//### Profile Link
+
+
+//ParthPant (https://github.com/ParthPant)
+
+#include <iostream.h>
+
+using namespace std;
+ 
+void main(){
+	cout<<"Hello world";
+
+}
