@@ -162,11 +162,11 @@
 - Bio: Software Developer
 - GitHub: [Ezekohon](https://github.com/ezekohon)
 
-### Name: [Eze Kohon](https://github.com/caption)
+### Name: [Aashrey Jain](https://github.com/aashreyj)
 
-- Place: Stockholm, Sweden
-- Bio: Student
-- GitHub: [Caption](https://github.com/caption)
+- Place: Aurangabad, Maharashtra, India
+- Bio: Software Developer. 3rd year CSE undergrad with a crush on physics.
+- GitHub: [aashreyj](https://github.com/aashreyj)
 
 
 #### Name: [Anilkumar Goudar](https://github.com/anil-goudar)
