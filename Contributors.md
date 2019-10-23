@@ -168,7 +168,15 @@
 - Bio: Student
 - GitHub: [Caption](https://github.com/caption)
 
-###Name: [Mahima Kriti](ttps://github.com/MAHIMAKRITI)
+
+#### Name: [Anilkumar Goudar](https://github.com/anil-goudar)
+
+- Place: Bagalkot, Karnataka, India
+- Bio: Software Developer.
+- GitHub: [Anil](https://github.com/anil-goudar)
+
+### Name: [Mahima Kriti](ttps://github.com/MAHIMAKRITI)
+
 
  -Place:Kolkata,West Bengal
  -Bio:Student
