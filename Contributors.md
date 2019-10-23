@@ -162,6 +162,11 @@
 - Bio: Software Developer
 - GitHub: [Ezekohon](https://github.com/ezekohon)
 
+### Name: [Eze Kohon](https://github.com/caption)
+
+- Place: Stockholm, Sweden
+- Bio: Student
+- GitHub: [Caption](https://github.com/caption)
 
 
 #### Name: [Anilkumar Goudar](https://github.com/anil-goudar)
@@ -171,6 +176,7 @@
 - GitHub: [Anil](https://github.com/anil-goudar)
 
 ### Name: [Mahima Kriti](ttps://github.com/MAHIMAKRITI)
+
 
  -Place:Kolkata,West Bengal
  -Bio:Student
