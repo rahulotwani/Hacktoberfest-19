@@ -144,6 +144,12 @@
 - Bio: Bio hi padni thi toh maths kyu liya?
 - GitHub: [harchani-ritik](https://github.com/harchani-ritik)
 
+### Name: [Priyesh Raj](https://github.com/ekthapriyesh24)
+
+- Place: Jamshedpur, India
+- Bio: T-shirt ke liye kuch bhi:)
+- GitHub: [ekthapriyesh24](https://github.com/ekthapriyesh24)
+
 ### Name: [Akintola Moronfoluwa](https://github.com/foluwa)
 
 - Place: Lagos, Nigeria
@@ -157,8 +163,16 @@
 - GitHub: [Ezekohon](https://github.com/ezekohon)
 
 
+
 #### Name: [Anilkumar Goudar](https://github.com/anil-goudar)
 
 - Place: Bagalkot, Karnataka, India
 - Bio: Software Developer.
 - GitHub: [Anil](https://github.com/anil-goudar)
+
+### Name: [Mahima Kriti](ttps://github.com/MAHIMAKRITI)
+
+ -Place:Kolkata,West Bengal
+ -Bio:Student
+ -GitHub:[MAHIMAKRITI](ttps://github.com/MAHIMAKRITI)
+
