@@ -182,3 +182,10 @@
  -Bio:Student
  -GitHub:[MAHIMAKRITI](ttps://github.com/MAHIMAKRITI)
 
+
+### Name: [Karen Kanahsiro](https://github.com/karenkanashiro)
+
+
+ -Place:São Paulo, Brazil
+ -Bio:Student
+ -GitHub:[KARENKANASHIRO](ttps://github.com/karenkanashiro)
