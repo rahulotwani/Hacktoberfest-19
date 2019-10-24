@@ -182,3 +182,9 @@
  -Bio:Student
  -GitHub:[MAHIMAKRITI](ttps://github.com/MAHIMAKRITI)
 
+
+### Name: [Sushrit Saha](ttps://github.com/Sushritsaha)
+
+ -Place:Kolkata,West Bengal
+ -Bio:Student
+ -GitHub:[Sushritsaha](ttps://github.com/Sushritsaha)
