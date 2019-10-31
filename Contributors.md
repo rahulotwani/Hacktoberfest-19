@@ -182,3 +182,9 @@
  -Bio:Student
  -GitHub:[MAHIMAKRITI](ttps://github.com/MAHIMAKRITI)
 
+#### Name: [Prachi Vaishnav](https://github.com/vaishnavprachi98)
+
+- Place: Indore, Madhya Pradesh, India
+- Bio: Student.
+- GitHub: [Anil](https://github.com/vaishnavprachi98)
+
