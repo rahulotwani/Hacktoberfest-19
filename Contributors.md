@@ -189,3 +189,10 @@
  -Place:São Paulo, Brazil
  -Bio:Student
  -GitHub:[KARENKANASHIRO](ttps://github.com/karenkanashiro)
+
+### Name: [Sushrit Saha](ttps://github.com/Sushritsaha)
+
+ -Place:Kolkata,West Bengal
+ -Bio:Student
+ -GitHub:[Sushritsaha](ttps://github.com/Sushritsaha)
+
