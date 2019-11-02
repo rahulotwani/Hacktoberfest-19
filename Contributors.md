@@ -182,6 +182,12 @@
  -Bio:Student
  -GitHub:[MAHIMAKRITI](ttps://github.com/MAHIMAKRITI)
 
+#### Name: [Prachi Vaishnav](https://github.com/vaishnavprachi98)
+
+- Place: Indore, Madhya Pradesh, India
+- Bio: Student.
+- GitHub: [Anil](https://github.com/vaishnavprachi98)
+
 
 ### Name: [Karen Kanahsiro](https://github.com/karenkanashiro)
 
@@ -195,4 +201,3 @@
  -Place:Kolkata,West Bengal
  -Bio:Student
  -GitHub:[Sushritsaha](ttps://github.com/Sushritsaha)
-
