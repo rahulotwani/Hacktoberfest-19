@@ -188,3 +188,16 @@
 - Bio: Student.
 - GitHub: [Anil](https://github.com/vaishnavprachi98)
 
+
+### Name: [Karen Kanahsiro](https://github.com/karenkanashiro)
+
+
+ -Place:São Paulo, Brazil
+ -Bio:Student
+ -GitHub:[KARENKANASHIRO](ttps://github.com/karenkanashiro)
+
+### Name: [Sushrit Saha](ttps://github.com/Sushritsaha)
+
+ -Place:Kolkata,West Bengal
+ -Bio:Student
+ -GitHub:[Sushritsaha](ttps://github.com/Sushritsaha)
